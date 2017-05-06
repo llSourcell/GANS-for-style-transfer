@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the code for [this](https://youtu.be/MgdAe-T8obE) video on Youtybe by Siraj Raval as part of the Udacity Deep Learning nanodegree. We're going to use a relatively new variant of the generative adversarial network called the [discogan](https://arxiv.org/abs/1703.05192). This will allow us to perfrom style transfer, that is generate an image in the style of another. Very cool stuff. 
+This is the code for [this](https://youtu.be/MgdAe-T8obE) video on Youtube by Siraj Raval as part of the Udacity Deep Learning nanodegree. We're going to use a relatively new variant of the generative adversarial network called the [discogan](https://arxiv.org/abs/1703.05192). This will allow us to perfrom style transfer, that is generate an image in the style of another. Very cool stuff. 
 
 ## Dependencies
 
